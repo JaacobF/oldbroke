@@ -1,0 +1,8 @@
+MJDeal.MainActivity, MJDeal;md5d339ad4cb938013cb21bcee67c2f94db.MainActivity
+MJDeal.MainActivity, MJDeal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d339ad4cb938013cb21bcee67c2f94db.MainActivity
+MJDeal.MainActivity;md5d339ad4cb938013cb21bcee67c2f94db.MainActivity
+mjdeal.MainActivity;md5d339ad4cb938013cb21bcee67c2f94db.MainActivity
+MJDeal.Vancouver, MJDeal;md5d339ad4cb938013cb21bcee67c2f94db.Vancouver
+MJDeal.Vancouver, MJDeal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d339ad4cb938013cb21bcee67c2f94db.Vancouver
+MJDeal.Vancouver;md5d339ad4cb938013cb21bcee67c2f94db.Vancouver
+mjdeal.Vancouver;md5d339ad4cb938013cb21bcee67c2f94db.Vancouver
